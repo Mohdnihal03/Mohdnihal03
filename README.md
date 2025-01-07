@@ -1,6 +1,6 @@
 # Hi there! I'm Mohd Nihal
 ## 💫 About Me:
-I'm currently diving deep into Artificial Intelligence and Machine Learning.<br>I enjoy working with Django, PostgreSQL, and exploring the capabilities of large language models (LLMs).<br>Explore my GitHub repositories to see the exciting projects I'm working on!
+
 
 
 ## 🌐 Socials:
