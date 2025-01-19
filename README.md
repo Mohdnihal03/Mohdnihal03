@@ -1,7 +1,13 @@
 # Hi there! I'm Mohd Nihal
 ## 💫 About Me:
 
+👋 Hi there! I'm an AI and ML enthusiast passionate about building innovative solutions to solve real-world challenges.
 
+🌟 My expertise lies in Artificial Intelligence, Machine Learning, and Data Science, with a focus on deploying scalable and interactive applications. I have hands-on experience in tools like Python, Pandas, Scikit-learn, and Streamlit, as well as expertise in MLOps practices for efficient workflows.
+
+🚀 I’m passionate about open-source contributions and enjoy collaborating on projects that make a meaningful impact.
+
+📫 Explore my repositories and feel free to connect for collaboration or discussions on AI-driven innovations!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hey.nihalll) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohammed-nihal-1b6108227?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
