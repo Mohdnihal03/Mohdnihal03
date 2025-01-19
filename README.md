@@ -27,4 +27,4 @@
 ## Let's Connect
 
 - LinkedIn: [Mohammed Nihal](linkedin.com/in/mohammed-nihal-1b6108227)
-- Email: mohammednihal3909@yit.edu.in
+- Email: mohd.nihalll03@gmail.com
