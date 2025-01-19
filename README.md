@@ -26,5 +26,5 @@
 [![](https://visitcount.itsvg.in/api?id=Mohdnihal03&icon=5&color=0)](https://visitcount.itsvg.in)
 ## Let's Connect
 
-- LinkedIn: [Mohammed Nihal](linkedin.com/in/mohammed-nihal-1b6108227)
+- LinkedIn: [Mohammed Nihal](linkedin.com/in/Mohdnhal03)
 - Email: mohd.nihalll03@gmail.com
